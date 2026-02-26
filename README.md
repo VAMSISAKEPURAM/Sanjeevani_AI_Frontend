@@ -166,8 +166,11 @@ This project is deployed effortlessly onto **Vercel** with zero-configuration re
 
 ## 📸 Screenshots
 
-
+![Screenshot_26-2-2026_85420_sanjeevani-ai-frontend vercel app](https://github.com/user-attachments/assets/a0f05117-e6a9-4787-96d8-accde1624ccd)
+![Screenshot_26-2-2026_85449_sanjeevani-ai-frontend vercel app](https://github.com/user-attachments/assets/92def247-e160-4126-9314-04a66f5104ef)
 ![Screenshot_26-2-2026_85512_sanjeevani-ai-frontend vercel app](https://github.com/user-attachments/assets/0bc033bb-c642-40a4-978a-d669951d79d8)
+
+
 
 ---
 
