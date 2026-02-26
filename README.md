@@ -38,8 +38,7 @@ Engineered to deliver an exceptionally fast, responsive, and accessible user exp
 
 ## 🌐 Live Demo
 
-🎯 **Check out the live application on Vercel:** [https://sanjeevani-ai.vercel.app](https://sanjeevani-ai.vercel.app) *(Replace with actual deployed URL if different)*
-
+🎯 **Check out the live application on Vercel:** (https://sanjeevani-ai-frontend.vercel.app/)
 ---
 
 ## 💻 Tech Stack
@@ -167,7 +166,8 @@ This project is deployed effortlessly onto **Vercel** with zero-configuration re
 
 ## 📸 Screenshots
 
-> *Add project screenshots here showcasing the main dashboard, AI interfaces, or mobile views.*
+
+![Screenshot_26-2-2026_85512_sanjeevani-ai-frontend vercel app](https://github.com/user-attachments/assets/0bc033bb-c642-40a4-978a-d669951d79d8)
 
 ---
 
