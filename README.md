@@ -74,7 +74,7 @@ This frontend incorporates a robust, modern Next.js folder architecture for maxi
 - **Responsive by Design:** Adapts effortlessly across all device breakpoints (Mobile, Tablet, Desktop).
 
 ---
-
+ 
 ## 📂 Folder Structure
 
 ```text
